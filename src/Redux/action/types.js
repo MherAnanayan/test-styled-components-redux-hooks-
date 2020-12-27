@@ -1,0 +1,3 @@
+export const ADD_INPUT_DATA = 'ADD_INPUT_DATA'
+export const DELETE_INPUT_DATA = 'DELETE_INPUT_DATA'
+export const EDIT_INPUT_DATA = 'EDIT_INPUT_DATA'
